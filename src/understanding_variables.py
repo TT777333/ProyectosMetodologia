@@ -57,6 +57,27 @@ Traceback:  Registro de donde el interprete tuvo problemas al intentar ejecutar 
 
 """
 
-name = "Erick Emmanuel Gomez Elizalde"
+name = "erick emManuel goMez elIzalde"
 print(name)
+print(name.title()) # Hace que la primera letra de cada palabra sea mayuscula y las demas sean minusculas al hacer el print
+                    # Tambien puede utilizarse al modificar o crear un valor
+
+# Metodos
+
+"""
+
+    El metodo es una accion que python puede realizar sobre una variable
+
+    El punto . despues de una variable seguido por el nombre del metodo
+    (como title()) dice que se ejecute el metodo title() de la variable name.
+
+    Todos los metodos van seguidos de parentesis,
+    Por que en ocasiones necesitan informacion adicional para funcionar.
+    (El metodo title siendo una excepcion)
+
+        El metodo title solo es para variables de tipo string
+
+    Otros metodos para strings son: upper() lower()
+
+"""
 
