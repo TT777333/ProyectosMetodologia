@@ -26,6 +26,6 @@ print('Lenguajes: \n\tPython\n\tC\n\tJavaScript')
 """
 
 famous_person = 'charly mercury'
-message = f'{famous_person.upper()} una vez dijo: Python is love' # la f cambia lo que esta entre llaves por la variable.
-                                                          # la f y la comilla siempre van juntas f'
+message = f'{famous_person.title()} una vez dijo: Python is love' # la f cambia lo que esta entre llaves por la variable.
+            # Metodos van dentro de las llave                     # la f y la comilla siempre van juntas f'
 print(message)
