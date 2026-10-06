@@ -52,3 +52,5 @@ print(motorcycles_6)
 motorcycles_6.remove('yamaha')
 print(motorcycles_6)
 
+
+
